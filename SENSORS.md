@@ -203,6 +203,14 @@ details about which code should be submitted to this repository.
    - ***gazebo plugin:*** ModelPlugin (generic)
    - ***example:*** --
 
+ * ***gazebo_ros_skid_steer_drive_6***
+   - ***description:*** A skid steering drive plugin modified for 6 wheel drive
+     Publish: nav_msgs::Odometry
+   - ***status:*** maintained
+   - ***gazebo plugin:*** ModelPlugin (generic)
+   - ***example:*** --
+
+
  * ***gazebo_ros_tricycle_drive***
    - ***description:*** a tricycle drive plugin for gazebo
      Publish: nav_msgs::Odometry, sensor_msgs::JointState
@@ -241,4 +249,3 @@ details about which code should be submitted to this repository.
    - ***status:*** maintained, not-just-a-wrapper
    - ***gazebo plugin:*** ModelPlugin (generic)
    - ***example:*** --
-
