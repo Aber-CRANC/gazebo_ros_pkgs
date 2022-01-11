@@ -14,4 +14,6 @@ Wrappers, tools and additional API's for using ROS with the Gazebo simulator. Fo
 
 See [Contribute](https://github.com/ros-simulation/gazebo_ros_pkgs/blob/hydro-devel/CONTRIBUTING.md) page.
 
+### Aber-CRANC Fork
 
+Includes a modified skid drive plugin for 6 wheels
